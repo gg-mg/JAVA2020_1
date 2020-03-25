@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=SeaHorse
+comment0.text=\r\n\ \ SeaHorse\ swim\ so\ slowly\ so\ that\ it\ is\ chanllenge\ for\ them\ to\ get\ the\ food,\r\n\ \ and,\ they\ have\ no\ stomach,\ thus\ they\ needs\ to\ eat\ almost\ constantly,\ \r\n\ \ also\ can\ only\ eat\ somthing\ like\ small\ fish\ or\ crustaceans.\r\n\ \ \r\n\ \ (\ using\ keyboard\ for\ interaction)\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=SeaHorse()
+comment1.text=\r\n\ Create\ a\ sea\ horse\ and\ initialize\ its\ two\ images.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ move\ when\ cursor\ keys\ are\ pressed.\r\n
+comment3.params=
+comment3.target=void\ checkKeyPress()
+comment3.text=\r\n\ Check\ whether\ a\ keyboard\ key\ has\ been\ pressed\ and\ react\ if\ it\ has.\r\n
+comment4.params=
+comment4.target=void\ checkCollision()
+comment4.text=\r\n\ Check\ whether\ the\ sea\ horse\ catch\ the\ fish\ or\ crab.\ \r\n\ Remove\ fish\ or\ crab.\r\n
+comment5.params=
+comment5.target=void\ switchImage()
+comment6.params=
+comment6.target=void\ switchImage3()
+numComments=7

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Flower
+comment0.text=\r\n\ A\ flower\ that\ reacts\ to\ mouse\ clicks\ by\ jumping\ to\ the\ right.\r\n\ \r\n\ @author\ Michael\ K\u00F6lling\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=Flower()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ move\ to\ the\ right\ if\ clicked\ with\ the\ mouse.\r\n
+numComments=3

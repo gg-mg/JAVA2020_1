@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment0.text=\r\n\ Class\ MyWorld\ is\ a\ child\ class\ to\ World.\r\n\ I\ have\ defined\ 3\ private\ data\ elements\ followed\ by\ a\ default\ constructor,\ MyWorld.\r\n\ I\ have\ provided\ a\ getter\ and\ setter\ for\ the\ first\ two\ private\ data\ elements\ and\r\n\ one\ effector.\r\n\ @author\ (George\ Gichuki)\ \r\n\ @version\ (3/7/2020)\r\n
+comment1.params=
+comment1.target=MyWorld()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ MyWorld.\r\n\ \r\n
+comment2.params=
+comment2.target=greenfoot.GreenfootSound\ getEurySong()
+comment3.params=eurySong
+comment3.target=void\ setEurySong(greenfoot.GreenfootSound)
+comment4.params=
+comment4.target=int\ getLevel()
+comment5.params=level
+comment5.target=void\ setLevel(int)
+comment6.params=
+comment6.target=void\ setVolumar()
+numComments=7

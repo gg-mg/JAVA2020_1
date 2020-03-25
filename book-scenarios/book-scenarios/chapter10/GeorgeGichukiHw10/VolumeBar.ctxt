@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=VolumeBar
+comment0.text=\r\n\ This\ is\ the\ VolumeBar\ class\ which\ defines\ the\ volume\ bar.\r\n\ It\ is\ a\ child\ class\ to\ Actor.\r\n\ \r\n\ @author\ (George\ Gichuki)\ \r\n\ @version\ (3/7/2020)\r\n
+comment1.params=
+comment1.target=VolumeBar()
+comment2.params=
+comment2.target=void\ changeBar()
+numComments=3

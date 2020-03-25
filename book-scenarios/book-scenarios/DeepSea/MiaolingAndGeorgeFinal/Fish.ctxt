@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Fish
+comment0.text=\r\n\ Fish\ class\ is\ a\ child\ to\ the\ Actor\ super\ class.\r\n\ \r\n\ @author\ (Miaoling\ Zhang\ &\ George\ Gichuki)\ \r\n\ @version\ (03/10/2020)\r\n
+comment1.params=
+comment1.target=Fish()
+comment1.text=\r\n\ Contructor\:\ Initialise\ the\ swiming\ speed\ to\ a\ random\ value.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Swim\ along,\ up\ to\ right\ down.\ Disappear\ when\ reaching\ the\ right\ edge\r\n
+numComments=3

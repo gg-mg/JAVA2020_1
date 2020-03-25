@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Space
+comment0.text=\r\n\ Space.\ Something\ for\ rockets\ to\ fly\ in.\r\n\ \r\n\ @author\ Michael\ K\u00F6lling\r\n\ @version\ 1.1\r\n
+comment1.params=
+comment1.target=Space()
+comment1.text=\r\n\ Create\ the\ space\ and\ all\ objects\ within\ it.\r\n
+comment2.params=count
+comment2.target=void\ addAsteroids(int)
+comment2.text=\r\n\ Add\ a\ given\ number\ of\ asteroids\ to\ our\ world.\ Asteroids\ are\ only\ added\ into\r\n\ the\ left\ half\ of\ the\ world.\r\n
+comment3.params=number
+comment3.target=void\ createStars(int)
+comment3.text=\r\n\ Crete\ a\ given\ number\ of\ stars\ in\ space.\r\n
+comment4.params=
+comment4.target=void\ gameOver()
+comment4.text=\r\n\ This\ method\ is\ called\ when\ the\ game\ is\ over\ to\ display\ the\ final\ score.\r\n
+numComments=5

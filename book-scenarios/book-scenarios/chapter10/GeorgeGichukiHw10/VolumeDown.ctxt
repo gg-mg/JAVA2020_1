@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=VolumeDown
+comment0.text=\r\n\ This\ is\ the\ VolumeDown\ class\ which\ defines\ the\ button\ that\ turns\ the\ \r\n\ \ volume\ down.\r\n\ It\ is\ a\ child\ class\ to\ the\ Actor\ class.\r\n\ \r\n\ @author\ (George\ Gichuki)\ \r\n\ @version\ (3/7/2020)\r\n
+comment1.params=
+comment1.target=VolumeDown()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ VolumeDown\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=3

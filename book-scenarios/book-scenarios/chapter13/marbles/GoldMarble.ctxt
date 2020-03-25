@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=GoldMarble
+comment0.text=\r\n\ A\ special\ marble\ that\ not\ only\ has\ a\ different\ colour,\ but\ can\ be\ controlled\r\n\ with\ the\ mouse.\ It\ bahaves\ mostly\ like\ a\ standard\ marble,\ but\ doing\ a\ drag-and-\r\n\ release\ gesture\ with\ the\ mouse\ on\ it\ will\ push\ the\ marble\ off\ in\ a\ given\ \r\n\ direction.\ \r\n\ \r\n\ The\ marble\ uses\ an\ Arrow\ object\ to\ indicate\ the\ force\ being\ applied\ when\ doing\r\n\ the\ drag\ thing.\r\n\ \r\n\ @author\:\ Michael\ K\u00F6lling\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ checkDrag()
+comment2.text=\r\n\ Check\ whether\ we\ have\ a\ mouse\ drag\ gesture.\ Then\ we\ need\ to\ show\ the\ force\ arrow.\r\n
+comment3.params=
+comment3.target=void\ hasDropped()
+comment3.text=\r\n\ This\ marble\ has\ dropped.\ Do\ whatever\ is\ necessary.\r\n
+numComments=4

@@ -1,0 +1,41 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Program Files\Greenfoot\jdk\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-protected
+-Xdoclint:none
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+11
+-classpath
+C:\Program Files\Greenfoot\lib\extensions\greenfoot.jar;C:\Program Files\Greenfoot\lib\bluejcore.jar;C:\Program Files\Greenfoot\lib\bluejeditor.jar;C:\Program Files\Greenfoot\lib\bluejext.jar;C:\Program Files\Greenfoot\lib\junit-4.11.jar;C:\Program Files\Greenfoot\lib\hamcrest-core-1.3.jar;C:\Program Files\Greenfoot\lib\bluej.jar;C:\Program Files\Greenfoot\lib\classgraph-4.2.6.jar;C:\Program Files\Greenfoot\lib\diffutils-1.2.1.jar;C:\Program Files\Greenfoot\lib\commons-logging-api-1.1.2.jar;C:\Program Files\Greenfoot\lib\jl1.0.1.jar;C:\Program Files\Greenfoot\lib\opencsv-2.3.jar;C:\Program Files\Greenfoot\lib\xom-1.2.9.jar;C:\Program Files\Greenfoot\lib\lang-stride.jar;C:\Program Files\Greenfoot\lib\nsmenufx-2.1.4.jar;C:\Program Files\Greenfoot\lib\richtextfx-fat-0.9.0.jar;C:\Program Files\Greenfoot\lib\guava-17.0.jar;C:\Program Files\Greenfoot\lib\httpclient-4.1.1.jar;C:\Program Files\Greenfoot\lib\httpcore-4.1.jar;C:\Program Files\Greenfoot\lib\httpmime-4.1.1.jar;C:\Program Files\Greenfoot\lib\javafx\lib\javafx.base.jar;C:\Program Files\Greenfoot\lib\javafx\lib\javafx.controls.jar;C:\Program Files\Greenfoot\lib\javafx\lib\javafx.fxml.jar;C:\Program Files\Greenfoot\lib\javafx\lib\javafx.graphics.jar;C:\Program Files\Greenfoot\lib\javafx\lib\javafx.media.jar;C:\Program Files\Greenfoot\lib\javafx\lib\javafx.properties.jar;C:\Program Files\Greenfoot\lib\javafx\lib\javafx.swing.jar;C:\Program Files\Greenfoot\lib\javafx\lib\javafx.web.jar;C:\Users\ggich\Java_Spring_2020\book-scenarios\book-scenarios\chapter02-04\little-crab
+-d
+C:\Users\ggich\Java_Spring_2020\book-scenarios\book-scenarios\chapter02-04\little-crab\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+C:\Users\ggich\Java_Spring_2020\book-scenarios\book-scenarios\chapter02-04\little-crab\Crab.java
+<---- end of javadoc command ---->
+Loading source file C:\Users\ggich\Java_Spring_2020\book-scenarios\book-scenarios\chapter02-04\little-crab\Crab.java...
+C:\Users\ggich\Java_Spring_2020\book-scenarios\book-scenarios\chapter02-04\little-crab\Crab.java:31: error: class, interface, or enum expected
+public void lookForWorm()
+       ^
+C:\Users\ggich\Java_Spring_2020\book-scenarios\book-scenarios\chapter02-04\little-crab\Crab.java:33: error: <identifier> expected
+    if(isTouching(Worm.class)){
+                            ^
+C:\Users\ggich\Java_Spring_2020\book-scenarios\book-scenarios\chapter02-04\little-crab\Crab.java:34: error: invalid method declaration; return type required
+        removeTouching(Worm.class);
+        ^
+C:\Users\ggich\Java_Spring_2020\book-scenarios\book-scenarios\chapter02-04\little-crab\Crab.java:34: error: <identifier> expected
+        removeTouching(Worm.class);
+                            ^
+C:\Users\ggich\Java_Spring_2020\book-scenarios\book-scenarios\chapter02-04\little-crab\Crab.java:34: error: <identifier> expected
+        removeTouching(Worm.class);
+                                 ^
+5 errors

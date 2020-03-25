@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Fish
+comment0.text=\r\n\ small\ fish\ swim\ along\ .\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Fish()
+comment1.text=\r\n\ Contructor\:\ Initialise\ the\ swiming\ speed\ to\ a\ random\ value.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=public\ void\ act()\ \r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ setLocation(getX()+speed,\ getY()+speed);\r\n\ \ \ \ \ \ \ \ //if\ (Greenfoot.getRandomNumber(100)\ >\ 90)\ \r\n\ \ \ \ \ \ \ \ //{turnTowards(int\ x,\ int\ y)\r\n\ \ \ \ \ \ \ \ \ \ \ \ move(1);\r\n\ \ \ \ \ \ \ \ //}\r\n\ \ \ \ \r\n\ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ if(getX()\=\=780\ ||getX()\=\=0)\r\n\ \ \ \ \ \ \ \ {\r\n\ \ \ \ \ \ \ \ \ \ \ \ //missedSong.play();\r\n\ \ \ \ \ \ \ \ \ \ \ \ MyWorld\ myNewWorld\ \=\ (MyWorld)getWorld();\r\n\ \ \ \ \ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ \ \ \ \ int\ aNB\=myNewWorld.getNumberOfFishMissed();\r\n\ \ \ \ \ \ \ \ \ \ \ \ aNB++;\r\n\ \ \ \ \ \ \ \ \ \ \ \ myNewWorld.setNumberOfFishMissed(aNB);\r\n\ \ \ \ \ \ \ \ \ \ \ \ myNewWorld.addScore(-1);\r\n\ \ \ \ \ \ \ \ \ \ \ \ myNewWorld.removeObject(this);\r\n\ \ \ \ \ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ }\ \ \ \r\n}
+numComments=3

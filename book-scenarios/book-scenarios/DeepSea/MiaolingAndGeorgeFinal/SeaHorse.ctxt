@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=SeaHorse
+comment0.text=\r\n\ \ SeaHorse\ swim\ so\ slowly\ so\ that\ it\ is\ challenge\ for\ them\ to\ get\ the\ food,\r\n\ \ and,\ they\ have\ no\ stomach,\ thus\ they\ needs\ to\ eat\ almost\ constantly,\ \r\n\ \ also\ can\ only\ eat\ something\ like\ small\ fish\ or\ crustaceans.\ \ \r\n\ \r\n\ @author\ (Miaoling\ Zhang\ &\ George\ Gichuki)\ \r\n\ @version\ (03/10/2020)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ move\ when\ cursor\ keys\ are\ pressed.\r\n
+comment2.params=
+comment2.target=void\ checkKeyPress()
+comment2.text=\r\n\ Check\ whether\ a\ keyboard\ key\ has\ been\ pressed\ and\ react\ if\ it\ has.\r\n
+comment3.params=
+comment3.target=void\ checkCollision()
+comment3.text=\r\n\ Check\ whether\ the\ sea\ horse\ catch\ the\ fish\ or\ crab.\ \r\n\ Remove\ fish\ or\ crab.\r\n
+numComments=4
